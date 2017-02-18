@@ -1,0 +1,43 @@
+h1, h2{
+  text-align: center;
+  font-family: 'Sansita';
+  color: lightblue;
+}
+
+h3{
+  color: blue;
+}
+body {
+  background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fchivethebrigade.files.wordpress.com%2F2012%2F03%2Fsurf-girls-920-36.jpg%3Fw%3D919%26h%3D574&f=1");
+  background-size: cover;
+}
+
+.profile{
+  width: 200px;
+}
+
+#alana{
+  float: left;
+  padding: 1em;
+}
+
+#karina{
+  float: right;
+  padding: 1em;
+}
+
+#christa{
+  margin-right: 300px;
+  float: right;
+  padding: 1em;
+}
+
+#erica{
+  margin-left: 300px;
+  float: left;
+  padding: 1em;
+}
+
+#pics{
+  display: inline;
+}
